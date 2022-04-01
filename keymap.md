@@ -26,7 +26,7 @@
     * Move Layer Up/Down/Top/Bottom: `Alt+[]`/`Ctrl+Alt+[]`
 * Select
   * Quick Mask:`Ctrl+M`
-  * 
+  
 ## NOTE:
 
 * \* means changed from default
@@ -37,7 +37,8 @@
 * [ ] Command Bar
 * [ ] Quick Access
 * [ ] Brush System In deep
-* 
+* [ ] material management
+
 * [ ] Official Tips
 * [ ] Story Shortcut
 * [ ] Animation Shortcut
